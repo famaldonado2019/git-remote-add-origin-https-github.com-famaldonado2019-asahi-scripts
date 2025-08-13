@@ -1,5 +1,23 @@
+# Build files
 build
 /asahi-scripts-*\.src\.rpm
 /asahi-scripts-*\.tar\.gz
 /asahi-scripts\.spec
 /update-m1n1.sysconfig
+
+# Archives and binaries
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+# Directories
+pkg/
+src/
