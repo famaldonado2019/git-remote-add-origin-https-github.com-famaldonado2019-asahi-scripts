@@ -1,6 +1,6 @@
 # Asahi Linux System Diagnostic Dump
 
-    Collected at:   mié 13 ago 2025 15:27:40 -03 (2025-08-13T15:27:40-03:00)
+    Collected at:   mié 13 ago 2025 15:30:42 -03 (2025-08-13T15:30:42-03:00)
     Username:       z
     Hostname:       fedora
 
@@ -24,7 +24,7 @@
     Distro:         Fedora Linux 42 (Workstation Edition)
     Kernel:         6.15.9-201.fc42.x86_64
     Kernel build:   #1 SMP PREEMPT_DYNAMIC Sat Aug  2 11:37:34 UTC 2025
-    Uptime:          15:27:40 up  7:59,  2 users,  load average: 0,88, 4,51, 5,57
+    Uptime:          15:30:42 up  8:02,  2 users,  load average: 1,36, 3,05, 4,80
     Kernel cmdline: BOOT_IMAGE=(hd0,gpt2)/vmlinuz-6.15.9-201.fc42.x86_64 root=UUID=53cfceb7-6feb-4899-9ff8-ccc268f6f3e9 ro rootflags=subvol=root rhgb quiet
 
 ## Audio Configuration:
